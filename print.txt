@@ -1,4 +1,4 @@
 $echo "Hello World"
-$echo "enjoy using git"
+$echo "trying to print on terminal"
 $echo "bye"
 
